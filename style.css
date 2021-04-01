@@ -13,7 +13,8 @@ body {
 .banner img {
     width: 100%;
 }
-.banner .more_inf {
+.banner,
+.more_inf {
     font-family: fantasy, cursive;
 }
 
